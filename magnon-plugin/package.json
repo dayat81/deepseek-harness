@@ -1,0 +1,9 @@
+{
+  "name": "magnon-plugin",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@deepseek-ai/cordis": "workspace:*",
+    "@deepseek-ai/dsh-tools": "workspace:*"
+  }
+}

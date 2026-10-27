@@ -1,0 +1,3 @@
+- insert:
+    - id: magnon
+      name: '/opt/harness/magnon-plugin/src/index.ts'
